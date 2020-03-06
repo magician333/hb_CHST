@@ -26,7 +26,7 @@ using System.Text;
 
     namespace HREngine.Bots
     {
-        class %s : SimTemplate
+        class Sim_%s : SimTemplate
         {
             //Write your code here
             %s
