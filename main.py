@@ -13,4 +13,7 @@ def main():
 
 if __name__ == '__main__':
     print(Text.welcome_text)
-    main()
+    try:
+        main()
+    except:
+        print("程序发生错误")
